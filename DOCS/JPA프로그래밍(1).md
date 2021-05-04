@@ -110,4 +110,13 @@ member1 == member2; //같다.
 
 객체를 자바 컬렉션에 저장 하듯이, DB에 저장 할 순 없을까??
 
+
 ###### -> JPA (Java Persistence API)
+
+
+
+
+
+
+
+강의 : 자바 ORM 표준 JPA 프로그래밍 - 기본편(김영한)
