@@ -14,8 +14,8 @@
 JPA는 표준명세이다.
 
 - JPA는 인터페이스의 모음
-- JPA 2.1표준 명세를 구현한 3가지 구현체
-- 하이버네이트, EclipseLink, DataNucleus
+- JPA 2.1표준 명세를 구현한 3가지 구현체는
+- 하이버네이트, EclipseLink, DataNucleus이다.
 
 
 
